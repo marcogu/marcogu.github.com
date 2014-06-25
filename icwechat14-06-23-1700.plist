@@ -24,6 +24,8 @@
 				<string>software</string>
 				<key>title</key>
 				<string>轨道通</string>
+				<key>froce-update</key>
+				<string>NO</string>
 			</dict>
 		</dict>
 	</array>
